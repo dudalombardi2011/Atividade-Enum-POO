@@ -51,8 +51,12 @@ O instante do pedido deve ser obtido automaticamente pelo sistema utilizando:
 
 ```java
 new Date()
+```
 
-#📥 Exemplo de Entrada
+--- 
+
+
+## 📥 Exemplo de Entrada
 
 Informe os dados do Cliente:
 Nome: Alex Green
@@ -73,7 +77,9 @@ Nome do produto: Mouse
 Preço do produto: 40,00
 Quantidade: 2
 
-#📤 Exemplo de Saída
+---
+
+## 📤 Exemplo de Saída
 RESUMO DO PEDIDO:
 Momento do pedido: 20/04/2023 11:25:09
 Status do pedido: PROCESSANDO
